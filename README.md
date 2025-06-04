@@ -96,7 +96,9 @@ Previous_week_Reveneue = CALCULATE(
 - Supports SQL integration and DAX-based calculations
 - Designed for weekly monitoring and strategic decision-making
 
-![Credit Card Financial Dashboard](Project_Files/Dashboard_Screenshot.png)
+![Credit Card Transaction Dashboard](Project_Files/screenshot1.png)
+![Credit Card Customer Dashboard](Project_Files/screenshot2.png)
+![PostgreSQL Database Overview](Project_Files/screenshot3.png)
 
 ---
 
