@@ -131,9 +131,7 @@ Previous_week_Reveneue = CALCULATE(
 
 ## 📬 Contact
 
-For questions, feedback, or collaboration:
-
-
+For feedback or collaboration, please contact via GitHub Issues or connect on LinkedIn.
 
 ---
 
