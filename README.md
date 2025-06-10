@@ -1,6 +1,6 @@
 # 💳 Credit Card Financial Dashboard (Power BI + PostgreSQL)
 
-This project is a complete end-to-end dashboard developed using Power BI + PostgreSQL, designed to analyze and visualize credit card customer behavior and transaction patterns. It empowers financial analysts and decision-makers with actionable insights on revenue, customer segmentation, and spending trends.
+This project is a complete end-to-end dashboard developed using Power BI + PostgreSQL, designed to analyse and visualize credit card customer behaviour and transaction patterns. It empowers financial analysts and decision-makers with actionable insights on revenue, customer segmentation, and spending trends.
 
 ---
 
